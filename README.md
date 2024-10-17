@@ -1,4 +1,4 @@
-# Redes-de-Computadores - Trabalho Prático
+# Redes de Computadores - Trabalho Prático
 Faça um relatório que contenha, para cada situação (UDP e TCP):
 
 *1* Executar os códigos cliente e servidor e capturar as telas de saída. Execute, numa terceira janela, o comando netstat e verifique a conexão entre os pares.
